@@ -1,0 +1,3 @@
+﻿enabled,storage_vmotion,vmname,targetds,targethost
+1,1,myVM1,targetDatastore1,esx1.my.lab
+1,1,myVM2,targetDatastore2,esx2.my.lab
